@@ -1,0 +1,16 @@
+.profileContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5%;
+}
+.profileCenter{
+    height: 88vh;
+}
+
+.noPosts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    box-shadow: 0px 10px 20px 5px gray;
+}

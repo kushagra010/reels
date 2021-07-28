@@ -1,0 +1,25 @@
+.profileInfoContainer{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 10px 20px 5px gray;
+}
+
+.left-part{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.avatar{
+    margin-top: 22%;
+}
+
+.left-part h2{
+    margin-top: 3%;
+    margin-bottom: 15%;
+}
+
+/* .userName{
+
+} */
